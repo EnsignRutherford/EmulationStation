@@ -31,13 +31,13 @@ sudo dnf install SDL2-devel freeimage-devel freetype-devel curl-devel \
 **Note**: this repository uses a git submodule - to checkout the source and all submodules, use
 
 ```bash
-git clone --recursive https://github.com/RetroPie/EmulationStation.git
+git clone --recursive https://github.com/EnsignRutherford/EmulationStation.git
 ```
 
 or 
 
 ```bash
-git clone https://github.com/RetroPie/EmulationStation.git
+git clone https://github.com/EnsignRutherford/EmulationStation.git
 cd EmulationStation
 git submodule update --init
 ```
